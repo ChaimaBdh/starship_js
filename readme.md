@@ -1,8 +1,14 @@
 # Projet Starship
 
-## Préalable 
+## Récupérer le projet 
 
 Télécharger et extraire l'archive du projet.
+
+ou cloner ce dépôt 
+
+```bash
+git clone git@github.com:ChaimaBdh/starship_js.git
+```
 
 ## Installation des fichiers
 
