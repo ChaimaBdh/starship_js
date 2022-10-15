@@ -16,7 +16,7 @@ git clone git@github.com:ChaimaBdh/starship_js.git
 
 ## Installation des fichiers  
 
-Dans le répertoire de l'archive extraite, exécuter la commande suivante :
+Dans le répertoire du projet, exécuter la commande suivante :
 
 ```bash
 npm install
