@@ -25,10 +25,7 @@ module.exports = {
       },
       host : 'localhost',
       port : 9000,
-      open : {
-	  target : ['/'],
-	  app : ['firefox']
-      }
+      open : true
   },
 
   module: {
