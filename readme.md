@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/114859889/195993387-f6a638db-b048-451b
 
 ## Récupérer le projet 
 
-Télécharger et extraire l'archive du projet ou cloner ce dépôt :  
+*Télécharger et extraire l'archive du projet ou cloner ce dépôt :*  
 
 ```bash
 git clone git@github.com:ChaimaBdh/starship_js.git
@@ -16,7 +16,7 @@ git clone git@github.com:ChaimaBdh/starship_js.git
 
 ## Installation des fichiers  
 
-Dans le répertoire du projet, exécuter la commande suivante :
+*Dans le répertoire du projet, exécuter la commande suivante :*
 
 ```bash
 npm install
